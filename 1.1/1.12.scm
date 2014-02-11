@@ -3,7 +3,7 @@
 ; First we need to undestand how to address the elenments of the Pascal's triangle.
 ; The way is to enumerate elements by row and column starting top-left.
 ; The triangle starts with row number one which holds the only column filled with element '1'.
-; The row number two holds two columns filled with one's.
+; The row number two holds two columns filled with '1'.
 ; The third row holds three columns filled with '1', '2' and '1', and so on.
 
 ; With that enumeration every element of the Pascal's triangle could be defined by this set of rules:
